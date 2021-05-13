@@ -1,0 +1,42 @@
+{
+  "name": "registration-api",
+  "version": "1.0.2",
+  "description": "Complete Registration API using Tokens, Nodemailer and Hashing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydeep0621/Registration-API.git"
+  },
+  "author": "Jaydeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydeep0621/Registration-API/issues"
+  },
+  "homepage": "https://github.com/jaydeep0621/Registration-API#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.9.2",
+    "helmet": "^4.3.1",
+    "i18n": "^0.13.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.15",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.18",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}

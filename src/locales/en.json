@@ -1,0 +1,29 @@
+{
+	"responseStatus": {
+		"FAILURE": "Fail",
+		"ERROR": "Error",
+		"SUCCESS": "Success"
+	},
+	"SOMETHING_WENT_WRONG": "Something Went Wrong",
+	"EMAIL_ALREADY_EXIST": "Email I'D Already Exist",
+	"PHONE_ALREADY_EXIST": "Phone Number Already Exist",
+	"SUCCESSFULLY_REGISTERED": "Successfully Registered",
+	"responsestatus.SUCCESS": "responsestatus.SUCCESS",
+	"responsestatus.ERROR": "responsestatus.ERROR",
+	"USER_NOT_EXIST": "User Not Exist",
+	"INVALID_CREDENTIAL": "Invalid User",
+	"USER_REGISTERED": "User Registered",
+	"WRONG_PASSWORD": "Wrong Password",
+	"UNAUTHORIZED_USER": "User is Not Authorized",
+	"OLD_PASSWORD_CANNOT_BE_WITH_NEW_PASSWORD": "Old password cannot be same with New Password",
+	"OLD_PASSWORD_DOES_NOT_MATCH": "Old Password Does Not Match",
+	"UNABLE_TO_PROCESS_TRY_AGAIN_LATER": "Unable To Process Try Again Later",
+	"UNABLE_TO_SEND_EMAIL": "Unable to Send Email",
+	"UNABLE_TO_RETRIEVE_PASSWORD": "UNABLE_TO_RETRIEVE_PASSWORD",
+	"responsestatus.FAILURE": "responsestatus.FAILURE",
+	"THERE_IS_NO_FILE_ATTATCH": "There is No file Attatch",
+	"responseStatus.ERROR": "responseStatus.ERROR",
+	"USER_SUCCESSFULLY_REGISTERED": "USER_SUCCESSFULLY_REGISTERED",
+	"SOMETHHING_wENT_WRONG": "SOMETHHING_wENT_WRONG",
+	"SOMETHHING_WENT_WRONG": "SOMETHHING_WENT_WRONG"
+}
