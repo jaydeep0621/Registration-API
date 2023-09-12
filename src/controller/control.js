@@ -8,7 +8,7 @@ const user1 = require("../model/user");
 const Appconfig = require("../config/config.json");
 const Session = require("../model/session");
 const httpStatus = require("../exception/httpstatus.json");
-const utility = require("../utility/send");
+const utility = require("../utility/util");
 
 module.exports = {
 
