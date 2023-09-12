@@ -1,8 +1,8 @@
 {
-    "SALT":{
-        "ROUND":10
+    "SALT": {
+        "ROUND": 10
     },
     "JWTSECRET": "",
     "email": "**************",
-    "password":  "*************"
+    "password": "*************"
 }
