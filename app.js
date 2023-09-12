@@ -78,7 +78,7 @@ app.use((err, req, res, next) => {
     requestURL: req['_parsedUrl']['_raw'],
     message: err.message || err.resMsg
   });
-  return Utility.response(
+  return utility.response(
     res,
     {},
     err.resMsg,
