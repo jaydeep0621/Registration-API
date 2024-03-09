@@ -1,6 +1,6 @@
 {
     "SALT": {
-        "ROUND": 10
+        "ROUND": 12
     },
     "JWTSECRET": "",
     "email": "**************",
